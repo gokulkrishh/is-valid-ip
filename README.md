@@ -1,4 +1,4 @@
-# is-valid-ip
+# is-valid-ip [![Build Status](https://travis-ci.org/gokulkrishh/is-valid-ip.svg?branch=master)](https://travis-ci.org/gokulkrishh/is-valid-ip)
 
 > Check if a string is valid ip address
 
