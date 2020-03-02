@@ -6,6 +6,9 @@
   "repository": "git@github.com:gokulkrishh/is-valid-ip.git",
   "author": "gokulkrishh <krishnangokul9@gmail.com>",
   "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "engines": {
     "node": ">=8"
   },
